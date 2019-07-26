@@ -1,5 +1,7 @@
 # General documentation
 For the project, I used tensorflow object detection API on Rpi, with the help of openCV for visualisation. 
+For other resources like images, train and test record, model files etc, please visit the GDrive link
+https://drive.google.com/drive/folders/1mzldgopL2Ulk414s0cHEtUbpGnOLbjDJ?usp=sharing
 
 # Step 1:
 Setting up - environment and hardware
