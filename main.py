@@ -67,7 +67,6 @@ frame_rate_calc = 1
 freq = cv2.getTickFrequency()
 font = cv2.FONT_HERSHEY_SIMPLEX
 
-### USB webcam ###
 if camera_type == 'usb':
     # Initialize USB webcam feed
     camera = cv2.VideoCapture(0)
